@@ -1,0 +1,145 @@
+1.* Evaluating the Impact of Consensus Mechanisms on Blockchain-Based Data Security: A Systematic Review
+
+2.* Formal Security Analysis and Innovative Application of Blockchain-based 5G AKA Protocol in Service Networks
+
+3.* A Systematic Literature Review on Security Vulnerabilities in IOT-Enabled Systems and Blockchain-Based Security Solutions
+
+4.* Blockchain and The Public Sector: Blockchain-Based Identity Management Systems For Public Services and The Impact on Privacy and Security Risks
+
+5.* Designing Blockchain-Based Frameworks for Enhancing Data Security and Integrity in Decentralized Computing Networks
+
+6.* Blockchain-based Security Framework for Metaverse: A Decentralized Approach
+
+7.* Security Threats of a Blockchain-Based Platform for Industry Ecosystems in the Cloud
+
+8.* Formal Modeling and Verification of a Blockchain-Based Crowdsourcing Consensus Protocol
+
+9.* Timelock Shield: A Robust Defense Against MEV and Censorship Attacks in Blockchain
+
+10.* Decentralization or Favoritism? An Analysis of Ethereum Transactions and Maximal Extractable Value Strategies
+
+11.* High-Scalable and Secure Blockchain: Generative Artificial Intelligence as A Key Enabler
+
+12.* Identifying Sybil Attacks in Blockchain Networks through Behavioral Analysis and Zero Knowledge Proof implementations
+
+13.* A Study of Double-spending Causes and Countermeasures in Bitcoin Network
+
+14.* Autonomous and Incentivized Wireless Connection for Robust Mobile Blockchain Network
+
+15.* Impact of Conflicting Transactions in Blockchain: Detecting and Mitigating Potential Attacks
+
+16.* Building Resilient Web 3.0 Infrastructure with Quantum Information Tech
+
+17.* PP-PQB: Privacy-Preserving in Post-Quantum Blockchain-Based Systems: A Systematization of Knowledge
+
+18.* Enhanced Network Security Protocols for the Quantum Era: Combining Classical and Post-Quantum Cryptography, and Quantum Key Distribution
+
+19.* FluxLayer: High-Performance Design for Cross-chain Fragmented Liquidity
+
+20.* Private, Anonymous, Collateralizable Commitments vs. MEV
+
+21.* Secure compilation of rich smart contracts on poor UTXO blockchains
+
+22.* Security Vulnerabilities and Countermeasures of Smart Contracts: A Survey
+
+23.* A Deep Dive into Blockchain-based Smart Contract-specific Security Vulnerabilities
+
+24.* Smart Contract Upgradability: A Structured and Natural Approach
+
+25.* PUFchain: A Hardware-Assisted Blockchain for Sustainable Simultaneous Device and Data Security in the Internet of Everything (IoE)
+
+26.* HA-CAAP: Hardware-Assisted Continuous Authentication and Attestation Protocol for IoT Based on Blockchain
+
+27.* BlockShield: A TPM-Integrated Blockchain-Based Framework for Shielding Against Deepfakes
+
+28.* Interoperability Solutions for Blockchain
+
+29.* Privacy-Preserving and Incentive-Driven Relay-Based Framework for Cross-Domain Blockchain Interoperability
+
+30.* appXchain: Application-Level Interoperability for Blockchain Networks
+
+
+Section 1: Introduction (The Necessity of the Survey)
+Papers: #1, #4, #11, #16
+
+Focus: Use these to explain the transition from Proof of Work (PoW) to Proof of Stake (PoS) and the emergence of "Service Networks" like 5G and the Metaverse, which demand higher security.
+
+Section 2: Related Work (Existing Surveys)
+Papers: #1, #3, #17, #22, #28
+
+Focus: Cite these as the "existing state of the art." For example, mention that while #22 covers general vulnerabilities, your paper focuses deeper on Topic B (MEV and specific attack vectors).
+
+Section 3: Taxonomy of the Literature (The "Classification" Section)
+Classification 1: Algorithmic & Consensus Attacks (#9, #10, #13, #15)
+
+Classification 2: Infrastructure-Specific Security (#2, #6, #7, #14)
+
+Classification 3: Advanced Defensive Frameworks (#5, #8, #12, #21)
+
+Classification 4: Hardware-Level Assurance (#25, #26, #27)
+
+Classification 5: Interoperability & Governance (#19, #29, #30)
+
+Section 4: Literature Reviews (Technical Comparisons)
+Key Comparison: Compare Timelock Shield (#9) vs. PACC (#20) for MEV defense.
+
+Key Comparison: Compare PUFchain (#25) vs. HA-CAAP (#26) for hardware-assisted IoT trust.
+
+Key Comparison: Compare 5G AKA (#2) vs. AppXchain (#30) for network-level security
+
+Section 5: Conclusion & Future Work (The "Quantum & AI" Era)
+Papers: #11, #16, #18, #24
+
+Focus: Use these to discuss the future "Post-Quantum" era (#18) and the need for upgradable code (#24).
+
+
+
+
+
+
+Research Proposal: Security Analysis and Taxonomy of Blockchain Consensus Protocols in Modern Service Networks
+
+Topic: Security Analysis of Blockchain (Attacks on Consensus, 51% Attacks, MEV, and Censorship)
+
+1. Introduction and Motivation
+The rapid transition from Proof-of-Work (PoW) to Proof-of-Stake (PoS) and the integration of blockchain into critical infrastructure (5G, IoT, and Cloud) has fundamentally altered the threat landscape of decentralized networks. Security is no longer just about preventing double-spending; it now involves mitigating complex economic and architectural threats like Maximal Extractable Value (MEV) and validator censorship. I have chosen this survey to investigate the robustness of modern consensus protocols against these evolving attacks. Understanding these vulnerabilities is critical for building resilient "Service Networks" where blockchain serves as the backbone for data integrity and identity management.
+
+2. Problem Statement
+Current blockchain systems face significant challenges in maintaining decentralization while ensuring security against:
+
+Economic Exploitation: MEV strategies and front-running that undermine user trust.
+
+Protocol Integrity: 51% and Sybil attacks that threaten ledger immutability.
+
+Post-Quantum Vulnerabilities: The threat of quantum computing to classical consensus cryptography.
+
+Cross-Chain Risks: Security gaps in interoperability bridges between heterogeneous networks.
+
+3. Proposed Taxonomy
+I will classify the existing literature into four primary layers to provide a "Defense-in-Depth" perspective:
+
+Hardware-Assisted Layer: Focuses on Physical Unclonable Functions (PUF) and Trusted Execution Environments (TEE) to anchor device security (e.g., Papers #25, #26).
+
+Consensus & Algorithmic Layer: Analyzes the mathematical resilience of PoS, PoW, and hybrid mechanisms against 51% and double-spending attacks (e.g., Papers #1, #13).
+
+Economic & Transaction Layer: Investigates MEV, transaction ordering, and censorship mitigation (e.g., Papers #5, #9, #10).
+
+Network & Application Layer: Covers security in 5G AKA protocols, smart contract formal verification, and cross-chain interoperability (e.g., Papers #2, #21, #30).
+
+4. Research Methodology
+This survey will follow a systematic literature review (SLR) approach. I have already identified 30 high-impact IEEE papers (2022–2026) covering these domains. The report will provide:
+
+A comparative analysis of mitigation strategies (e.g., VDFs vs. ZKPs for MEV defense).
+
+An evaluation of security trade-offs between scalability and decentralization.
+
+A roadmap for future work in Post-Quantum Cryptography (PQC) and AI-enhanced defense.
+
+5. Preliminary Bibliography (Sample of 30 Selected Papers)
+[1] Evaluating the Impact of Consensus Mechanisms on Blockchain-Based Data Security: A Systematic Review, IEEE 10866192.
+
+[5] Timelock Shield: A Robust Defense Against MEV and Censorship Attacks, IEEE 11068800.
+
+[17] PP-PQB: Privacy-Preserving in Post-Quantum Blockchain-Based Systems, IEEE 10904231.
+
+[25] PUFchain: Hardware-Assisted Blockchain for Device and Data Security, IEEE 8931405.
