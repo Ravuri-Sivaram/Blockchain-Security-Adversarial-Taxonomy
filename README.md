@@ -4,7 +4,7 @@
 A comprehensive adversarial analysis and 5-layer security taxonomy of blockchain consensus, MEV, and smart contracts. Grounded in the review of 30+ IEEE/ACM papers (2018–2025) focusing on the Integrity and Availability of decentralized service networks.
 
 ### **Authors**
-* [cite_start]**Karthikeya Moturi** – University of South Florida [cite: 2, 3]
+* **Karthikeya Moturi** – University of South Florida [cite: 2, 3]
 * [cite_start]**Ravuri Sivaram** – University of South Florida [cite: 19, 20]
 
 ---
